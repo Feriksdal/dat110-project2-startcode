@@ -33,5 +33,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="javafx-sdk-17.0" level="project" />
+    <orderEntry type="library" name="javafx-swt" level="project" />
+    <orderEntry type="library" name="JavaFX" level="project" />
   </component>
 </module>
