@@ -27,6 +27,13 @@ public class PublishMsg extends Message {
 		this.topic = topic;
 	}
 
+	@Override
+	public String toString() {
+		return "PublishMsg {" +
+				"topic='" + topic + '\'' +
+				", message='" + message + '\'' +
+				'}';
+	}
 
 	// as described in the project text
 	
